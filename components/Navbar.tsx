@@ -1,4 +1,4 @@
-import { imageLogo } from "@/utils/imageLogo";
+// import { imageLogo } from "@/utils/imageLogo";
 import { Box, Container, Link } from "@chakra-ui/react";
 import Image from "next/image";
 
@@ -10,14 +10,14 @@ const Navbar = () => {
           href="/"
           style={{ fontFamily: "Lobster Two", position: "relative" }}
         >
-          <Image
+          {/* <Image
             src={imageLogo}
             alt="logo"
             priority
             height={250}
             width={250}
             style={{ width: "auto", height: "auto" }}
-          />
+          /> */}
         </Link>
       </Container>
     </Box>
