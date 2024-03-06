@@ -4,7 +4,7 @@
 
 ## Demo Link
 
-Access the site at [Project-Link]()
+Access the site at [Project-Link](https://seamless-pos.vercel.app/)
 ## Getting Started
 
 First, run the development server:
